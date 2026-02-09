@@ -1,4 +1,6 @@
 Project Overview: 
+
+
 Basic LAN Routing Configuration
 This project demonstrates the configuration of a Router (R1) acting as the central gateway for four distinct Local Area Networks (LANs). The primary objective was to establish inter-network connectivity by configuring physical router interfaces and static addressing across end devices.
 
